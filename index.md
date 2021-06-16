@@ -49,4 +49,4 @@ _To provide security expertise and easy-to-use automated security services_
 
 
 ### Support or Contact
-For more information please contact [karfi@trusteyesecurity.com](mailto:karfi@trusteyesecurity.com)
+For more information please contact [karfi@ictlab.org](mailto:karfi@ictlab.org)
