@@ -1,4 +1,4 @@
-## We help developers building secure applications
+## We help developers building secure and reliable applications
 
 ### Our Vision
 _To be a trusted company that securing critical online services_
